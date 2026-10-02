@@ -1,0 +1,2 @@
+$ bun --cwd packages/app dev
+$ vite
